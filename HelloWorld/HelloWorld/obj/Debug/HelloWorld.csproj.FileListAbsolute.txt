@@ -1,0 +1,9 @@
+C:\testing\testing\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\testing\testing\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\testing\testing\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\testing\testing\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\testing\testing\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\testing\testing\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\testing\testing\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+C:\testing\testing\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\testing\testing\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
