@@ -7,3 +7,6 @@ C:\testing\testing\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resourc
 C:\testing\testing\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
 C:\testing\testing\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 C:\testing\testing\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Projects\TestingGIT\testing\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Projects\TestingGIT\testing\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Projects\TestingGIT\testing\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
