@@ -19,12 +19,12 @@ namespace HelloWorld
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello World testing!");
+            MessageBox.Show("Hello World!");
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello!");
+            MessageBox.Show("Hello testing!");
         }
     }
 }
